@@ -1,0 +1,7 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.bg-coffeeColor {
+  background-color: #58392c; /* Coffee color */
+}
